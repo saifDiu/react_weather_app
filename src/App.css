@@ -42,7 +42,7 @@
   display: flex; /* Magic starts here, turning your container into a flex container */
   justify-content: center; /* This centers the child horizontally */
   align-items: center; /* And this centers it vertically */
-  height: 80vh;
+  height: 89vh;
   background-color: rgb(221, 241, 242);
   max-width: 50%;
   border-radius: 50px;

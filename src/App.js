@@ -52,6 +52,9 @@ function App() {
           <h3>Upcoming Features</h3>
           <li>Users location based Latitude, Longitude Tracking</li>
           <li>Location based auto city tracking and extract weather phenomena</li>
+          <hr />
+          <h3>Open for Contribution</h3>
+          <a href="https://github.com/saifDiu/react_weather_app/pulls">Create a pull request</a>
         </div>
       </div>
     </div>
