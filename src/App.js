@@ -5,7 +5,7 @@ import "./App.css";
 import sunnyIcon from './sunny.svg';
 import moonIcon from './moon.svg';
 
-const base_url = 'http://api.weatherapi.com/v1/current.json?key=1fcae61d0773418587b81123242508&q=23.7887093,90.3770021';
+const base_url = 'https://api.weatherapi.com/v1/current.json?key=1fcae61d0773418587b81123242508&q=23.7887093,90.3770021';
 
 function App() {
 
