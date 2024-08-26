@@ -48,6 +48,10 @@ function App() {
           <h3>Windspeed: {weatherData.wind_mph} Miles Per Hour</h3>
           <h3>Humidity: {weatherData.humidity}%</h3>
           <h3>Cloud situation: {weatherData.cloud}%</h3>
+          <hr />
+          <h3>Upcoming Features</h3>
+          <li>Users location based Latitude, Longitude Tracking</li>
+          <li>Location based auto city tracking and extract weather phenomena</li>
         </div>
       </div>
     </div>
