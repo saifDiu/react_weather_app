@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .App-logo {
@@ -35,4 +36,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+  display: flex; /* Magic starts here, turning your container into a flex container */
+  justify-content: center; /* This centers the child horizontally */
+  align-items: center; /* And this centers it vertically */
+  height: 80vh;
+  background-color: rgb(221, 241, 242);
+  max-width: 50%;
+  border-radius: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center {
+  width: 50%; /* Set any width you prefer */
+  height: 50%; /* And any height */
 }
